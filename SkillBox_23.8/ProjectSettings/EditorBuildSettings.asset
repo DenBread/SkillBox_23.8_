@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ff72466d498da8e41a1eaf02e0ed2d78
+  - enabled: 1
+    path: "Assets/Scenes/\u0421arousel.unity"
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Character.unity
+    guid: bca5369116f14144faaa89834bcfaaed
   m_configObjects: {}
